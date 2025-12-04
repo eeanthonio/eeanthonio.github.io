@@ -1,5 +1,3 @@
-% # 👋 Hi, I'm Elsie Eyram Anthonio
-
 📚 **PhD Student, Computing**  
 🔬 **Graduate Research Assistant — Span Lab**  
 🏫 University of Utah  
