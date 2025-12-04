@@ -1,3 +1,6 @@
+![Alt text](Elsie.jpg)
+
+
 📚 **PhD Student, Computing**  
 🔬 **Graduate Research Assistant — Span Lab**  
 🏫 University of Utah  
