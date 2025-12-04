@@ -1,5 +1,5 @@
-![Alt text](Elsie.jpg)
 
+<img src="Elsie.jpg" alt="My Image" width="500" />
 
 📚 **PhD Student, Computing**  
 🔬 **Graduate Research Assistant — Span Lab**  
